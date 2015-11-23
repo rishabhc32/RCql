@@ -24,7 +24,7 @@ int main(void)
 	char ch[100]="XYZ",input[1000];int fof;
 
 	while(strcmp("xit",ch)!=0)
-	{
+       {
 
 	ofstream f("RCql.rcql");
 
